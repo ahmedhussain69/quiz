@@ -11,7 +11,7 @@ Developed in accordance with the acceptance criteria:
 
 ## Link to Deployed Application
 
-Stick URL in
+https://ahmedhussain69.github.io/quiz/
 
 ## Screenshots of Deployed Application
 
